@@ -7,7 +7,7 @@
         "url": "git://github.com/tamtakoe/oi.select.git"
     },
     "devDependencies": {
-        "gulp": "3.9.1",
+        "gulp": "4.0.2",
         "gulp-watch": "4.2.4",
         "gulp-webserver": "0.8.7",
         "gulp-stylus": "2.0.1",
