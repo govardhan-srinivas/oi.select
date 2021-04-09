@@ -29,7 +29,7 @@
         "karma-opera-launcher": "0.3.0",
         "karma-ie-launcher": "0.2.0",
         "karma-phantomjs-launcher": "0.2.1",
-        "karma-sauce-launcher": "0.2.14",
+        "karma-sauce-launcher": "4.3.6",
         "jasmine-jquery": "2.1.0",
         "karma-jasmine-jquery": "0.1.1",
         "karma-ng-html2js-preprocessor": "0.1.2"
